@@ -1,5 +1,8 @@
-
+[
     {
-        "var JSONObj" : [{}],
+        "var JSONObj": [{}],
+      {
         "var JSONObj = {nuevo objeto()};"
+      }, 
     }
+]
